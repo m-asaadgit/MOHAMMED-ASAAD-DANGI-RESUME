@@ -1,0 +1,16 @@
+
+export default function ResumePage() {
+
+  return (
+     <div style={{ width: "100%", height: "100vh" }}>
+      <iframe
+        src="src/assets/MOHAMMED_ASAAD_DANGI_RESUME.pdf"
+        width="100%"
+        height="100%"
+        style={{ border: "none" }}
+        title="Resume"
+      />
+      
+    </div>
+  );
+}
