@@ -4,7 +4,7 @@ export default function ResumePage() {
   return (
      <div style={{ width: "100%", height: "100vh" }}>
       <iframe
-        src="public/MOHAMMED_ASAAD_DANGI_RESUME.pdf"
+        src="/MOHAMMED_ASAAD_DANGI_RESUME.pdf"
         width="100%"
         height="100%"
         style={{ border: "none" }}
